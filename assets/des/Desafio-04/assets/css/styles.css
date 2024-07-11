@@ -1,0 +1,22 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: light;
+}
+
+.bg-verde {
+  background-color: #28a745;
+}
+.text-green {
+  color: #28a745;
+  font-weight: 500;
+  font-style: medium;
+  font-size: large;
+}
+.card-font {
+  font-size: small;
+}
+.rl {
+  font-weight: 500;
+  font-size: large;
+}
